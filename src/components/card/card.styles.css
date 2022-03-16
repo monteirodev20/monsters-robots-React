@@ -1,0 +1,21 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #61dbfb;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+.text-name {
+  font-family: 'Bungee Inline', cursive;
+  /* color: #000000; */
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
