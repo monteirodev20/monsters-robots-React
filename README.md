@@ -3,6 +3,8 @@
 Fundamentos de React.\
 API usada [robohash](https://robohash.org/)
 
+### Grande projeto e-comerce em breve...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
