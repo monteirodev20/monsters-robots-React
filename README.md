@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 Fundamentos de React.\
-API usada [robohash](https://robohash.org/)
+APIs usadas:
+- [robohash](https://robohash.org/)
+- [jsonplaceholder](https://https://jsonplaceholder.typicode.com/users.typicode.com/users)
 
 ### Grande projeto e-comerce em breve...
 
