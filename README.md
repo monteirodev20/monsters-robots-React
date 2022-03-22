@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+Fundamentos de React.\
+APIs usadas:
+- [robohash](https://robohash.org/)
+- [jsonplaceholder](https://https://jsonplaceholder.typicode.com/users.typicode.com/users)
+
+### Grande projeto e-comerce em breve...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
